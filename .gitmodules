@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "estimators"]
 	path = estimators
-	url = https://github.com/thechibo/estimators
+	url = https://github.com/thechibo/estim
